@@ -26,6 +26,7 @@
   - [Decision Trees](https://github.com/JONGSKY/AI_study/tree/master/v2/jiwon)
   
 - 5/7 예정 (v3)
+  - [text cnn](https://github.com/JONGSKY/AI_study/tree/master/v3/jongsky)
 
 ## Member Notice
 
