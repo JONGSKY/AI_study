@@ -1,4 +1,4 @@
-# Deep Learning Study
+# AI Study (Machine learning + Deep Learning)
 
 ## Member list
 
